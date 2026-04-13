@@ -1,54 +1,79 @@
-## Jhonathan da Silva de Sá
-**Information Security | Network Engineering | Cyber Defense**
-
-### 🛡️ Professional Profile
-Cybersecurity Technologist with a solid foundation in **Networking (CCNA)**, **Offensive Security**, and **Python Development**. I have hands-on experience in simulated environments conducting vulnerability exploitation and network infrastructure management.
-
-- [cite_start]🔭 **Targeting:** Junior SOC Analyst, Network Security Support, or Cybersecurity Internship. [cite: 6]
-- [cite_start]🎓 **Education:** Information Security Technologist (Uninove, 2021-2025). [cite: 8]
-- ⚙️ **Power User:** Advanced Linux workflow with **Archcraft** and **Hyprland** for high-efficiency security auditing.
-
----
-
-### 🛠️ Technical Expertise
-| Category | Technologies & Skills |
-| :--- | :--- |
-| **Networking** | [cite_start]TCP/IP, Cisco IOS, Routing & Switching, VLANs, VLSM, Subnetting. [cite: 18, 23] |
-| **Security (Offensive/Defensive)** | [cite_start]Metasploit, Wireshark, Ettercap (MITM), SET (Social Engineering Toolkit), ACLs. [cite: 18, 25, 26] |
-| **Tools & OS** | [cite_start]Kali Linux, Archcraft, Windows Server, VMs, PuTTY, Packet Tracer. [cite: 18, 19, 24] |
-| **Dev & Data** | [cite_start]Python (Flask), OOP, SQL Injection analysis, Microsoft Power BI. [cite: 20, 25] |
-
----
-
-### 📜 Certifications
-* [cite_start]**CCNA V7:** Introduction to Networks – Senai/Cisco. [cite: 12, 13]
-* [cite_start]**Cybersecurity Essentials** – Senai/Cisco. [cite: 9, 10]
-* [cite_start]**Python Programming with Frameworks** – Senai. [cite: 16]
-* [cite_start]**Microsoft Power BI** – Senai. [cite: 14, 15]
-
----
-
-### 🧪 Security Labs & Projects
-* [cite_start]**Enterprise Network Implementation:** Structured cabling (Cat 6A), VLAN segmentation, and secure remote access (SSH/Telnet) on Cisco devices. [cite: 22, 23]
-* [cite_start]**Offensive Security Simulation:** MITM attacks, Social Engineering (SET), and vulnerability exploitation using Metasploit in controlled VM environments. [cite: 24, 25]
-* [cite_start]**Cryptography & Integrity:** File integrity verification using SHA algorithms and malware identification via terminal. [cite: 27, 28, 29]
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Hi, I'm Jhonathan 👋</h1>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ForeignDream&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&border_color=334155&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ForeignDream&layout=compact&theme=transparent&title_color=38bdf8&text_color=e2e8f0&border_color=334155"/>
+  <b>Information Security Technologist · Network & Cybersecurity Enthusiast</b><br/>
+  São Paulo, Brazil
 </p>
 
----
+👨‍💻 About Me
+I hold a degree in Information Security (Tecnólogo) from Uninove and have complementary training in networking, cybersecurity, Python development, and data analysis.
+Throughout my studies, I built hands-on experience with offensive security tools, network configuration, cryptography, and data integrity analysis. I'm currently looking for my first opportunity as a Junior SOC Analyst, N1/N2 Technical Support, or Information Security Intern.
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/jhonathan-da-silva-de-s%C3%A1-2ab162244/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+🛡️ Security & Networking
+<p>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ettercap-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SET-8B1A1A?style=for-the-badge&logoColor=white"/>
+</p>
+
+VLANs, Subnetting & VLSM
+ACL configuration on Cisco IOS
+SSH / Telnet remote access
+Symmetric & asymmetric cryptography
+File integrity verification via hashing (SHA)
+MITM attacks simulation (controlled environment)
+Social engineering simulation with SET
+SQL Injection packet analysis via Wireshark
+
+
+💻 Development & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+🖥️ Systems & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PuTTY-007F4E?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
+📜 Certifications & Courses
+CourseInstitutionYearCCNA V7: Introduction to NetworksCisco Networking Academy / SENAI2026Cybersecurity EssentialsCisco Networking Academy / SENAI2026Python Programming with FrameworksSENAI2025Microsoft Power BISENAI2026
+
+🔬 Labs & Projects
+🔧 LAN Network Implementation with VLANs and Structured Cabling
+
+Autonomous hands-on project in a school environment. Included Cat 6 cable crimping (RJ-45), VLAN configuration on a Cisco switch, IP addressing with subnetting and VLSM, and remote access via SSH and Telnet on Cisco IOS.
+
+⚔️ Offensive Security Simulations
+
+Practical labs in a controlled VM environment (attacker/victim). Covered social engineering attacks with SET, traffic interception and credential capture with Ettercap (MITM), vulnerability exploitation with Metasploit Framework, and SQL Injection packet analysis via Wireshark.
+
+🔐 Cryptography & Integrity Analysis
+
+Hands-on practice with SHA hashing via Linux terminal and Kali Linux tools, including symmetric and asymmetric cryptography. Applied hashing for file integrity verification and malware identification — a technique used in forensic analysis and SOC operations.
+
+🌐 ACL Configuration on Cisco Networks
+
+Implemented Access Control Lists (ACLs) for traffic filtering and permission control in a lab environment using Cisco IOS.
+
+
+📫 Contact
+<p>
   <a href="mailto:jhonathansilvasa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhonathan-da-silva-de-s%C3%A1-2ab162244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ForeignDream">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>

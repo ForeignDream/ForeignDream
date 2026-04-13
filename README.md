@@ -65,6 +65,7 @@ Throughout my studies, I built hands-on experience with offensive security tools
   <a href="https://www.credly.com/badges/1bee426b-ac3a-4556-ba1a-eb3f067192c0/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAINO.png" width="120" alt="CCNA: Introduction to Networks"/>
   </a>
+  
   <a href="https://www.credly.com/badges/dceb189e-d3e6-489f-b0e9-1bb952ed3554/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="120" alt="Cybersecurity Essentials"/>
   </a>

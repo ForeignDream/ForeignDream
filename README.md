@@ -63,11 +63,10 @@ Throughout my studies, I built hands-on experience with offensive security tools
 
 <p>
   <a href="https://www.credly.com/badges/1bee426b-ac3a-4556-ba1a-eb3f067192c0/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAINO.png" width="120" alt="CCNA: Introduction to Networks"/>
+    <img src="https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120" alt="CCNA: Introduction to Networks"/>
   </a>
-  
   <a href="https://www.credly.com/badges/dceb189e-d3e6-489f-b0e9-1bb952ed3554/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="120" alt="Cybersecurity Essentials"/>
+    <img src="https://images.credly.com/size/110x110/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="120" alt="Junior Cybersecurity Analyst Career Path"/>
   </a>
 </p>
 
@@ -106,7 +105,7 @@ Throughout my studies, I built hands-on experience with offensive security tools
   <a href="mailto:jhonathansilvasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jhonathan-da-silva-de-s%C3%A1-2ab162244/">
+  <a href="https://www.linkedin.com/in/jhonathan-silva-de-sa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ForeignDream">

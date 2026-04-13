@@ -45,7 +45,7 @@ Cybersecurity Technologist with a solid foundation in **Networking (CCNA)**, **O
 
 ### 📫 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/jhonathan-da-silva-de-sa%C3%A1-842b7a15b/">
+  <a href="https://www.linkedin.com/in/jhonathan-da-silva-de-s%C3%A1-2ab162244/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jhonathansilvasa@gmail.com">

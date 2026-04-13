@@ -48,8 +48,8 @@ SQL Injection packet analysis via Wireshark
 CourseInstitutionYearCCNA V7: Introduction to NetworksCisco Networking Academy / SENAI2026Cybersecurity EssentialsCisco Networking Academy / SENAI2026Python Programming with FrameworksSENAI2025Microsoft Power BISENAI2026
 
 🏅 Badges
-https://www.credly.com/badges/dceb189e-d3e6-489f-b0e9-1bb952ed3554/public_url
-https://www.credly.com/badges/1bee426b-ac3a-4556-ba1a-eb3f067192c0/public_url
+https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png
+
 
 🔬 Labs & Projects
 🔧 LAN Network Implementation with VLANs and Structured Cabling

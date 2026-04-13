@@ -1,14 +1,22 @@
 <h1 align="center">Hi, I'm Jhonathan 👋</h1>
+
 <p align="center">
   <b>Information Security Technologist · Network & Cybersecurity Enthusiast</b><br/>
   São Paulo, Brazil
 </p>
 
-👨‍💻 About Me
-I hold a degree in Information Security (Tecnólogo) from Uninove and have complementary training in networking, cybersecurity, Python development, and data analysis.
-Throughout my studies, I built hands-on experience with offensive security tools, network configuration, cryptography, and data integrity analysis. I'm currently looking for my first opportunity as a Junior SOC Analyst, N1/N2 Technical Support, or Information Security Intern.
+---
 
-🛡️ Security & Networking
+### 👨‍💻 About Me
+
+I hold a degree in Information Security (Tecnólogo) from Uninove and have complementary training in networking, cybersecurity, Python development, and data analysis.
+
+Throughout my studies, I built hands-on experience with offensive security tools, network configuration, cryptography, and data integrity analysis. I'm currently looking for my first opportunity as a **Junior SOC Analyst**, **N1/N2 Technical Support**, or **Information Security Intern**.
+
+---
+
+### 🛡️ Security & Networking
+
 <p>
   <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -18,24 +26,29 @@ Throughout my studies, I built hands-on experience with offensive security tools
   <img src="https://img.shields.io/badge/SET-8B1A1A?style=for-the-badge&logoColor=white"/>
 </p>
 
-VLANs, Subnetting & VLSM
-ACL configuration on Cisco IOS
-SSH / Telnet remote access
-Symmetric & asymmetric cryptography
-File integrity verification via hashing (SHA)
-MITM attacks simulation (controlled environment)
-Social engineering simulation with SET
-SQL Injection packet analysis via Wireshark
+- VLANs, Subnetting & VLSM
+- ACL configuration on Cisco IOS
+- SSH / Telnet remote access
+- Symmetric & asymmetric cryptography
+- File integrity verification via hashing (SHA)
+- MITM attacks simulation (controlled environment)
+- Social engineering simulation with SET
+- SQL Injection packet analysis via Wireshark
 
+---
 
-💻 Development & Data
+### 💻 Development & Data
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
-🖥️ Systems & Tools
+---
+
+### 🖥️ Systems & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -44,32 +57,50 @@ SQL Injection packet analysis via Wireshark
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-📜 Certifications & Courses
-CourseInstitutionYearCCNA V7: Introduction to NetworksCisco Networking Academy / SENAI2026Cybersecurity EssentialsCisco Networking Academy / SENAI2026Python Programming with FrameworksSENAI2025Microsoft Power BISENAI2026
+---
 
-🏅 Badges
-https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png
+### 🏅 Cisco Badges
 
+<p>
+  <a href="https://www.credly.com/badges/1bee426b-ac3a-4556-ba1a-eb3f067192c0/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAINO.png" width="120" alt="CCNA: Introduction to Networks"/>
+  </a>
+  <a href="https://www.credly.com/badges/dceb189e-d3e6-489f-b0e9-1bb952ed3554/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" width="120" alt="Cybersecurity Essentials"/>
+  </a>
+</p>
 
-🔬 Labs & Projects
-🔧 LAN Network Implementation with VLANs and Structured Cabling
+---
 
-Autonomous hands-on project in a school environment. Included Cat 6 cable crimping (RJ-45), VLAN configuration on a Cisco switch, IP addressing with subnetting and VLSM, and remote access via SSH and Telnet on Cisco IOS.
+### 📜 Certifications & Courses
 
-⚔️ Offensive Security Simulations
+| Course | Institution | Year |
+|--------|-------------|------|
+| CCNA V7: Introduction to Networks | Cisco Networking Academy / SENAI | 2026 |
+| Cybersecurity Essentials | Cisco Networking Academy / SENAI | 2026 |
+| Python Programming with Frameworks | SENAI | 2025 |
+| Microsoft Power BI | SENAI | 2026 |
 
-Practical labs in a controlled VM environment (attacker/victim). Covered social engineering attacks with SET, traffic interception and credential capture with Ettercap (MITM), vulnerability exploitation with Metasploit Framework, and SQL Injection packet analysis via Wireshark.
+---
 
-🔐 Cryptography & Integrity Analysis
+### 🔬 Labs & Projects
 
-Hands-on practice with SHA hashing via Linux terminal and Kali Linux tools, including symmetric and asymmetric cryptography. Applied hashing for file integrity verification and malware identification — a technique used in forensic analysis and SOC operations.
+**🔧 LAN Network Implementation with VLANs and Structured Cabling**
+> Autonomous hands-on project in a school environment. Included Cat 6 cable crimping (RJ-45), VLAN configuration on a Cisco switch, IP addressing with subnetting and VLSM, and remote access via SSH and Telnet on Cisco IOS.
 
-🌐 ACL Configuration on Cisco Networks
+**⚔️ Offensive Security Simulations**
+> Practical labs in a controlled VM environment (attacker/victim). Covered social engineering attacks with SET, traffic interception and credential capture with Ettercap (MITM), vulnerability exploitation with Metasploit Framework, and SQL Injection packet analysis via Wireshark.
 
-Implemented Access Control Lists (ACLs) for traffic filtering and permission control in a lab environment using Cisco IOS.
+**🔐 Cryptography & Integrity Analysis**
+> Hands-on practice with SHA hashing via Linux terminal and Kali Linux tools, including symmetric and asymmetric cryptography. Applied hashing for file integrity verification and malware identification — a technique used in forensic analysis and SOC operations.
 
+**🌐 ACL Configuration on Cisco Networks**
+> Implemented Access Control Lists (ACLs) for traffic filtering and permission control in a lab environment using Cisco IOS.
 
-📫 Contact
+---
+
+### 📫 Contact
+
 <p>
   <a href="mailto:jhonathansilvasa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
